@@ -1,0 +1,4 @@
+
+###  GEt All user
+GET http://localhost:8080/api/v1/beer/744b91cd-a3db-4644-b864-f0bdad9478a8
+Accept: application/json
